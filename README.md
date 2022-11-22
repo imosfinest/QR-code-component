@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](images/screen-shot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/imosfinest/QR-code-component)
-- Live Site URL: [Add live site URL here](https://imosfinest.github.io/QR-code-component/)
+- Solution URL: (https://github.com/imosfinest/QR-code-component)
+- Live Site URL: (https://imosfinest.github.io/QR-code-component/)
 
 ## My process
 - I started this project first by structuring my html page.
