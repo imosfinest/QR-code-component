@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-Here is the file path to my screenshot. ![](images/screen-shot.png)
+![](images/screen-shot.png)
 
 ### Links
 
@@ -36,7 +36,7 @@ Here is the file path to my screenshot. ![](images/screen-shot.png)
 
 - Semantic HTML5 
 - CSS
-- Mobile-first workflow
+- Mobile-workflow
 
 ### What I learned
 
@@ -64,12 +64,12 @@ I was able to assit a track mate complete this project and I am happy I have com
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/imosfinest)
-- Twitter - [@yourusername](https://www.twitter.com/@imosfinest)
+- Frontend Mentor - [@imosfinest](https://www.frontendmentor.io/profile/imosfinest)
+- Twitter - [@imosfinest](https://www.twitter.com/@imosfinest)
 
 ## Acknowledgments
 
 - RAPHEAL AKPAN the very one that adviced and suggested this career path to me...I want to say a very big thank you.
-- To my @techathon community thank you for much so much for giving me the environment to trive.
+- To my @techathon community thank you so much for giving me the environment to trive.
 
 
