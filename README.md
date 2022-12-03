@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![](images/screen-shot.png)
+![](images/Qr-code screenshot-2.png)
 
 ### Links
-- Solution URL: (https://github.com/imosfinest/QR-code-component)
-- Live Site URL: (https://imosfinest.github.io/QR-code-component/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://imosfinest.github.io/QR-code-component/)
 
 ## My process
 - I started this project first by structuring my html page.
@@ -47,9 +47,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   margin: 40px auto;
 }
 ```
+- The lines of code above later changed to
+```css
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
 
 ### Continued development
-- I'll like to improve more on semantic html, focus on responsiveness and using variables when styling.
+- I'll like to improve more on semantic html, And get used to responsive web design.
 - I was able to assist a track mate complete this project and I am happy I have come this far.
 
 ### Useful resources
@@ -63,6 +71,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 - My big thank you goes to RAPHEAL AKPAN the very one that advised and suggested this career path to me.
-- To my @techathon community thank you so much for giving me the environment to trive.
+- To my techathon community thank you so much for giving me the environment to trive.
 
 
