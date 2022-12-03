@@ -1,3 +1,10 @@
+:root {
+  --White: hsl(0, 0%, 100%);
+  --lightgray: hsl(212, 45%, 89%);
+  --grayishblue: hsl(220, 15%, 55%);
+  --arkblue: hsl(218, 44%, 22%);
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -5,14 +12,24 @@
 }
 
 body {
-  background-color: hsl(212, 45%, 89%);
+  background-color: var(--lightgray);
+  height: 100vh;
+  /*   min-height: 100vh;  Not sure what to do with this line yet.*/
 }
 
-.QRcode {
-  background-color: hsl(0, 0%, 100%);
+/*I am applying the flex property to properly center my code on all devices. Instead of using the auto value as seen below..  */
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.QRcode-container {
+  background-color: var(--White);
   height: 420px;
   width: 260px;
-  margin: 90px auto;
+  /*   margin: 90px auto;I used the justify and align flex property instead.*/
   border-radius: 15px;
 }
 
@@ -25,10 +42,12 @@ img {
   border-radius: 10px;
 }
 
-h2 {
+h1 {
   font-size: 17px;
   font-family: "Outfit", sans-serif;
   text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 p {
@@ -38,10 +57,13 @@ p {
   color: hsl(206, 3%, 47%);
   font-weight: bold;
 }
-.attribution {
+
+/* .attribution {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+  */
